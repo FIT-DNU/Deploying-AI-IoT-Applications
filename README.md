@@ -38,6 +38,7 @@
     - ### [Link github: https://github.com/thanhdatdzhp/BTL_AI-IoT-Nhom8]
  9. HỆ THỐNG ĐẾM SỐ LƯỢNG NGƯỜI TRONG LỚP HỌC BẰNG CAMERA
     - ### [Link github: https://github.com/trunghieu35373/He-thong-dem-so-luong-nguoi-trong-lop-hoc-bang-camera]
+    - ### [Link github: https://github.com/hliem24/PeopleCouting]
  1. ỨNG DỤNG XÁC THỰC KHUÔN MẶT VÀ LSTM TRONG NHẬN DIỆN & ĐẾM ĐỘNG TÁC GẬP BỤNG THỜI GIAN THỰC
     - ### [Link github: https://github.com/huuhuy2910/SitUpFaceLogin]
  1. NHẬN DIỆN HÀNH ĐỘNG CỦA NGƯỜI SỬ DỤNG CẢM BIẾN GIA TỐC
@@ -49,6 +50,7 @@
  1. NHÀ THÔNG MINH
     - ### [Link github: https://github.com/HiepV7413/Nha_thong_minh-Nhom_3-CNTT16-02.git]
     - ### [Link github: https://github.com/NhongPlus/SuperHome]
+    - ### [Link github: https://github.com/ngongocphu/smarthome]
  1. VƯỜN THÔNG MINH
     - ### [Link github: https://github.com/Long9ngon-pixel/Smart-Garden-.git]
  1. NHẬN DIỆN HÀNH ĐỘNG CỬ CHỈ CÁNH TAY BẰNG CẢM BIẾN GIA TỐC
@@ -56,7 +58,8 @@
     - ### [Link github: https://github.com/RobiRobin555/gesture_recognition_in_real_time]
  1. NHẬN DIỆN BIỂN SỐ XE VÀ PHÁT HIỆN SAI PHẠM VƯỢT ĐÈN ĐỎ
     - ### [Link github: https://github.com/tatthangdz123/Nhan-dien-giao-thong]
- 1. TRANG TRẠI THÔNG MINHG
+    - ### [Link github: https://github.com/ntnguyen03/traffic_red_light_violation_detection]
+ 1. TRANG TRẠI THÔNG MINH
     - ### [Link github: https://github.com/nvtan208/Trang-trai-thong-minh]
  1. NHẬN DIỆN HÀNH VI BẠO LỰC TRONG ĐÁM ĐÔNG
     - ### [Link github: https://github.com/NguyenAnhCuong/Violence_Detection]
@@ -66,4 +69,10 @@
     - ### [Link github: https://github.com/VietHann/He-Thong-Tuong-Tac-Thong-Minh-Dua-Tren-Nhan-Dien-Cam-Xuc]
  1. ĐIỂM DANH SINH VIÊN BẰNG MÃ QR
     - ### [Link github: https://github.com/manhlinh3011/Diem-danh-bang-ma-QRCode]
- 
+ 1. THEO DÕI MẬT ĐỘ XE TRONG KHU VỰC ĐỂ THAY ĐỔI THỜI GIAN TÍN HIỆU ĐÈN GIAO THÔNG
+    - ### [Link github: https://github.com/datn32988/AIOT]
+ 1. NHẬN DIỆN CỬ CHỈ TAY CỦA NGƯỜI KHUYẾT TẬT
+    - ### [Link github: https://github.com/tienbry9999/Nhan-dien-cu-chi-tay-cua-nguoi-khuyet-tat-]
+ 1. NHẬN DIỆN CỬ CHỈ TAY TRONG THỜI GIAN THỰC VỚI CẢM BIẾN HÌNH ẢNH
+    - ### [Link github: https://github.com/mthanh04/Nhan-dien-cu-chi-tay]
+ 1. 
