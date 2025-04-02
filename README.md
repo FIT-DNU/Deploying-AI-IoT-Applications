@@ -32,4 +32,13 @@
     - ### [Link github: https://github.com/NguyenManhCuongKCNTT/Quanlycaytrong]
  6. HỆ THỐNG CẢNH BÁO NGUY CƠ CHÁY NỔ
     - ### [Link github: https://github.com/myduyen719/He-thong-canh-bao-nguy-co-chay.git]
- 7. 
+ 7. NHẬN DIỆN BIỂU CẢM KHUÔN MẶT
+    - ### [Link github: https://github.com/BearBear204/Nhan-dien-bieu-cam-khuon-mat-va-phat-thong-bao-truc-quan.git]
+ 8. NHẬN DIỆN KHUÔN MẶT VÀ HÀNH VI CHỐNG ĐẨY ỨNG DỤNG TRONG CHẤM THI THỂ CHẤT
+    - ### [Link github: https://github.com/thanhdatdzhp/BTL_AI-IoT-Nhom8]
+ 9. HỆ THỐNG ĐẾM SỐ LƯỢNG NGƯỜI TRONG LỚP HỌC BẰNG CAMERA
+    - ### [Link github: https://github.com/trunghieu35373/He-thong-dem-so-luong-nguoi-trong-lop-hoc-bang-camera]
+ 1. ỨNG DỤNG XÁC THỰC KHUÔN MẶT VÀ LSTM TRONG NHẬN DIỆN & ĐẾM ĐỘNG TÁC GẬP BỤNG THỜI GIAN THỰC
+    - ### [Link github: https://github.com/huuhuy2910/SitUpFaceLogin]
+ 1. NHẬN DIỆN HÀNH ĐỘNG CỦA NGƯỜI SỬ DỤNG CẢM BIẾN GIA TỐC
+    - ### [Link github: https://github.com/Trinhmai26/AI-IOT-ACTIVITY-PREDICTOR]
