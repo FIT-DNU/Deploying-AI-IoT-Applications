@@ -26,4 +26,5 @@
     - ### [Link github: https://github.com/mrdung19/Nhan-dang-hanh-vi-hoc-sinh]
  3. QUẢN LÝ BÃI ĐỖ XE THÔNG MINH
     - ### [Link github: https://github.com/Mingduc1608/Quan-Ly-Bai-Do-Xe-Thong-Minhh.git]
- 4. 
+ 4. HỆ THỐNG NHẬN DIỆN KHUÔN MẶT VÀ CẢNH BÁO CHUYỂN ĐỘNG TRONG GIÁM SÁT AN NINH
+    - ### [Link github: https://github.com/nguyenducduy2612/Nhan_dien_KM_CD]
