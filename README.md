@@ -42,3 +42,24 @@
     - ### [Link github: https://github.com/huuhuy2910/SitUpFaceLogin]
  1. NHẬN DIỆN HÀNH ĐỘNG CỦA NGƯỜI SỬ DỤNG CẢM BIẾN GIA TỐC
     - ### [Link github: https://github.com/Trinhmai26/AI-IOT-ACTIVITY-PREDICTOR]
+ 1. PHÁT HIỆN CỬ CHỈ HÀNH ĐỘNG BẰNG CAMERA ĐỂ ĐIỀU KHIỂN THIẾT BỊ THÔNG MINH
+    - ### [Link github: https://github.com/khuong-d4ng/Dynamic_Hand_Gesture_Using_MediaPipe_LSTM_By_Group_1_CNTT1602]
+ 1. PHÂN LOẠI HOA QUẢ THÔNG QUA CAMERA VÀ BĂNG TRUYỀN
+    - ### [Link github: https://github.com/sangzudepchaiuwu/Phan-Loai-Trai-Cay]
+ 1. NHÀ THÔNG MINH
+    - ### [Link github: https://github.com/HiepV7413/Nha_thong_minh-Nhom_3-CNTT16-02.git]
+    - ### [Link github: https://github.com/NhongPlus/SuperHome]
+ 1. VƯỜN THÔNG MINH
+    - ### [Link github: https://github.com/Long9ngon-pixel/Smart-Garden-.git]
+ 1. NHẬN DIỆN HÀNH ĐỘNG CỬ CHỈ CÁNH TAY BẰNG CẢM BIẾN GIA TỐC
+    - ### [Link github: https://github.com/Anhquan04/Phat-hien-cu-chi-hanh-dong-canh-tay-bang-cam-bien-gia-toc]
+ 1. NHẬN DIỆN BIỂN SỐ XE VÀ PHÁT HIỆN SAI PHẠM VƯỢT ĐÈN ĐỎ
+    - ### [Link github: https://github.com/tatthangdz123/Nhan-dien-giao-thong]
+ 1. TRANG TRẠI THÔNG MINHG
+    - ### [Link github: https://github.com/nvtan208/Trang-trai-thong-minh]
+ 1. NHẬN DIỆN HÀNH VI BẠO LỰC TRONG ĐÁM ĐÔNG
+    - ### [Link github: https://github.com/NguyenAnhCuong/Violence_Detection]
+ 1. PHÁT HIỆN MỆT MỎI CỦA TÀI XẾ DỰA TRÊN CAMERA
+    - ### [Link github: https://github.com/nguyenthuy1602/Phat_hien_tai_xe_met_moi/blob/main/README.md]
+ 1. HỆ THỐNG TƯƠNG TÁC THÔNG MINH DỰA TRÊN NHẬN DIỆN CẢM XÚC
+    - ### [Link github: https://github.com/VietHann/He-Thong-Tuong-Tac-Thong-Minh-Dua-Tren-Nhan-Dien-Cam-Xuc]
