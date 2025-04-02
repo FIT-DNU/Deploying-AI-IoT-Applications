@@ -28,3 +28,6 @@
     - ### [Link github: https://github.com/Mingduc1608/Quan-Ly-Bai-Do-Xe-Thong-Minhh.git]
  4. HỆ THỐNG NHẬN DIỆN KHUÔN MẶT VÀ CẢNH BÁO CHUYỂN ĐỘNG TRONG GIÁM SÁT AN NINH
     - ### [Link github: https://github.com/nguyenducduy2612/Nhan_dien_KM_CD]
+ 5. HỆ THỐNG QUẢN LÝ CHĂM SÓC CÂY TRỒNG
+    - ### [Link github: https://github.com/NguyenManhCuongKCNTT/Quanlycaytrong]
+ 6. 
