@@ -53,6 +53,7 @@
     - ### [Link github: https://github.com/ngongocphu/smarthome]
  1. VƯỜN THÔNG MINH
     - ### [Link github: https://github.com/Long9ngon-pixel/Smart-Garden-.git]
+    - ### [Link github: https://github.com/nhatali/VuonThongMinh]
  1. NHẬN DIỆN HÀNH ĐỘNG CỬ CHỈ CÁNH TAY BẰNG CẢM BIẾN GIA TỐC
     - ### [Link github: https://github.com/Anhquan04/Phat-hien-cu-chi-hanh-dong-canh-tay-bang-cam-bien-gia-toc]
     - ### [Link github: https://github.com/RobiRobin555/gesture_recognition_in_real_time]
@@ -75,4 +76,7 @@
     - ### [Link github: https://github.com/tienbry9999/Nhan-dien-cu-chi-tay-cua-nguoi-khuyet-tat-]
  1. NHẬN DIỆN CỬ CHỈ TAY TRONG THỜI GIAN THỰC VỚI CẢM BIẾN HÌNH ẢNH
     - ### [Link github: https://github.com/mthanh04/Nhan-dien-cu-chi-tay]
- 1. 
+ 1. CHUYỂN ĐỔI GIỌNG NÓI THÀNH VĂN BẢN
+    - ### [Link github: https://github.com/CongUan04/Nhan_Dien_Giong_Noi]
+ 1. NHẬN DẠNG HÀNH VI CỦA SINH VIÊN TRONG LỚP HỌC
+    - ### [Link github: https://github.com/NguyenDanhPhong270604/Nhan_dang_sinhvien]
