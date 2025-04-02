@@ -30,4 +30,6 @@
     - ### [Link github: https://github.com/nguyenducduy2612/Nhan_dien_KM_CD]
  5. HỆ THỐNG QUẢN LÝ CHĂM SÓC CÂY TRỒNG
     - ### [Link github: https://github.com/NguyenManhCuongKCNTT/Quanlycaytrong]
- 6. 
+ 6. HỆ THỐNG CẢNH BÁO NGUY CƠ CHÁY NỔ
+    - ### [Link github: https://github.com/myduyen719/He-thong-canh-bao-nguy-co-chay.git]
+ 7. 
