@@ -22,3 +22,8 @@
 # Sản phẩm được phát triển bởi các nhóm sinh viên
  1. NHẬN DIỆN CỬ CHỈ TAY HỖ TRỢ GIAO TIẾP CHO NGƯỜI KHUYẾT TẬT
     - ### [Link github: https://github.com/DangTruongDuong/sign-language-detection-using-lstm]
+ 2. NHẬN DIỆN HÀNH VI CỦA HỌC SINH
+    - ### [Link github: https://github.com/mrdung19/Nhan-dang-hanh-vi-hoc-sinh]
+ 3. QUẢN LÝ BÃI ĐỖ XE THÔNG MINH
+    - ### [Link github: https://github.com/Mingduc1608/Quan-Ly-Bai-Do-Xe-Thong-Minhh.git]
+ 4. 
