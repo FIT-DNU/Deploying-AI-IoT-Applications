@@ -53,6 +53,7 @@
     - ### [Link github: https://github.com/Long9ngon-pixel/Smart-Garden-.git]
  1. NHẬN DIỆN HÀNH ĐỘNG CỬ CHỈ CÁNH TAY BẰNG CẢM BIẾN GIA TỐC
     - ### [Link github: https://github.com/Anhquan04/Phat-hien-cu-chi-hanh-dong-canh-tay-bang-cam-bien-gia-toc]
+    - ### [Link github: https://github.com/RobiRobin555/gesture_recognition_in_real_time]
  1. NHẬN DIỆN BIỂN SỐ XE VÀ PHÁT HIỆN SAI PHẠM VƯỢT ĐÈN ĐỎ
     - ### [Link github: https://github.com/tatthangdz123/Nhan-dien-giao-thong]
  1. TRANG TRẠI THÔNG MINHG
@@ -63,3 +64,6 @@
     - ### [Link github: https://github.com/nguyenthuy1602/Phat_hien_tai_xe_met_moi/blob/main/README.md]
  1. HỆ THỐNG TƯƠNG TÁC THÔNG MINH DỰA TRÊN NHẬN DIỆN CẢM XÚC
     - ### [Link github: https://github.com/VietHann/He-Thong-Tuong-Tac-Thong-Minh-Dua-Tren-Nhan-Dien-Cam-Xuc]
+ 1. ĐIỂM DANH SINH VIÊN BẰNG MÃ QR
+    - ### [Link github: https://github.com/manhlinh3011/Diem-danh-bang-ma-QRCode]
+ 
