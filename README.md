@@ -18,3 +18,7 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
+
+# Sản phẩm được phát triển bởi các nhóm sinh viên
+ 1. NHẬN DIỆN CỬ CHỈ TAY HỖ TRỢ GIAO TIẾP CHO NGƯỜI KHUYẾT TẬT
+    - ### [Link github: https://github.com/DangTruongDuong/sign-language-detection-using-lstm]
