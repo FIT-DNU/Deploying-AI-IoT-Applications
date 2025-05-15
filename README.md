@@ -47,10 +47,11 @@
     | VƯỜN THÔNG MINH | Vũ Triệu Phú, Ngô Hữu Hoàng, Nguyễn Quốc Hưng, Đỗ Quốc Việt | [:octocat:github](https://github.com/Long9ngon-pixel/Smart-Garden-.git)|
     | NHÀ THÔNG MINH | Nguyễn Đức Đại, Nguyễn Đình Khánh, Nguyễn Ngọc Bảo Long, Vũ Đức Minh | [:octocat:github](https://github.com/NhongPlus/SuperHome.git)|
     | NHẬN DIỆN HÀNH ĐỘNG CỬ CHỈ CÁNH TAY BẰNG CẢM BIẾN GIA TỐC | Phan Đình Quang Vinh, Nguyễn Viết Trọng, Bạch Công Quân, Nguyễn Thị Linh Chi| [:octocat:github](https://github.com/trongnv24/Arm_Recognition_Using_An_Accelerometer_Sensor_Group_6_CNTT-1602)|
-    | Quản lý nhân sự | Phạm Lê Tú, Nguyễn Văn Hùng, Nông thế Vương| [:octocat:github](https://github.com/NongTheVuong/TTDN-15-02-N8)|
-    | Quản lý tài sản | Nguyễn Trung Hiếu, Nguyễn Ngọc Hải| [:octocat:github](https://github.com/NgocHai77/TTDN-15-02-N10)|
-    | Quản lý dự án | Lê Thị Minh, Phạm Văn Quyền, Lê Quốc Trung| [:octocat:github](https://github.com/vanquyen1/TTDN-15-02-N5)|
-    | Quản lý tài sản | Vũ Thành Đạt, Nguyễn Đăng Chính| [:octocat:github](https://github.com/chinhnguyen-k15/TTDN-15-02-N9)|*|
+    | NHẬN DIỆN BIỂN SỐ XE VÀ PHÁT HIỆN SAI PHẠM VƯỢT ĐÈN ĐỎ | Nguyễn Tất Thắng, Phùng Xuân Đức, Phạm Thị Huyền Trang, Hà Minh Chiến | [:octocat:github](https://github.com/vanhdep/smart-farm.git)|
+    | TRANG TRẠI THÔNG MINH | Nguyễn Văn Tân, Nguyễn Văn Long, Ngô Thị Mừng, Đào Trần Lê Việt Anh | [:octocat:github](https://github.com/NgocHai77/TTDN-15-02-N10)|
+    |NHẬN DIÊN VÀ CẢNH BÁO HÀNH VI BẠO LỰC TRONG ĐÁM ĐÔNG | Vũ Khánh Hoàn, Nguyễn Ánh Cương, Nông Trung Hiếu| [:octocat:github](https://github.com/vuhoan1312312343/Violence_Detection)|
+    | PHÁT HIỆN MỆT MỎI CỦA TÀI XẾ DỰA TRÊN CAMERA | Nguyễn Thị Thủy, Trần Minh Hiếu| [:octocat:github](https://github.com/hieutran-12/baitaploniot_phathienmetmoicuataixe)||
+    | HỆ THỐNG TƯƠNG TÁC NHÀ THÔNG MINH DỰA TRÊN NHẬN DIỆN CẢM XÚC | Lê Văn Việt| [:octocat:github](https://github.com/VietHann/He-Thong-Tuong-Tac-Thong-Minh-Dua-Tren-Nhan-Dien-Cam-Xuc)|*|
 - #### CNTT 15-03
     | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
     | ---------------------- | --------------------| --------------- | ----------- |
