@@ -22,7 +22,7 @@
 # Sản phẩm được phát triển bởi các nhóm sinh viên
 
 
-- #### CNTT16-01
+- #### CNTT 16-01
     | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
     | ---------------------- | --------------------| --------------- | ----------- |
     | NHẬN DIỆN CỬ CHỈ TAY HỖ TRỢ GIAO TIẾP CHO NGƯỜI KHUYẾT TẬT | Đặng Trường Dương, Bùi Tuấn Đức, Nguyễn Đức Hoàn, Đỗ Hoàng Quý| [:octocat:github](https://github.com/ApheliosQ/sign-language-detection-using-lstm.git)|
@@ -31,22 +31,22 @@
     | HỆ THỐNG NHẬN DIỆN KHUÔN MẶT VÀ CẢNH BÁO CHUYỂN ĐỘNG TRONG GIÁM SÁT AN NINH| Nguyễn Đức Duy, Đào Thị Phương Long, Đoàn Tuấn Nam, Nguyễn Khôi Nguyên| [:octocat:github](https://github.com/nammmmmm12/Nhan_dien_KM_CD)||
     |HỆ THÔNG QUẢN LÝ CHĂM SÓC CÂY TRỒNG| Nguyễn Mạnh Cường, Hồ Quang Huy, Nguyễn Thanh Sơn, Nguyễn Tất Toàn| [:octocat:github](https://github.com/NguyenManhCuongKCNTT/Quanlycaytrong)||
     | HỆ THỐNG CẢNH BÁO NGUY CƠ CHÁY| Nguyễn Văn Chuyện, Lê Thị Mỹ Duyên, Nguyễn Đào Phúc Nguyên, Nguyễn Tiến Thái| [:octocat:github](https://github.com/mmr-09/Nhan_dien_lua_AIot.git)|
-    | Quản lý văn bản| Trần Thọ Hưng, Trần Quang Huấn, Vũ Minh Đức |[:octocat:github](https://github.com/tranhuan123/TTDN-15-01-N1)|
-    | Quản lý phòng họp, hội trường| Nguyễn Việt Châu, Nguyễn Tiến Đạt, Trần Trung Đức| [:octocat:github](https://github.com/nguyendat2610/TTDN-15-01-N8)|
-    | Quản lý công việc| Phạm Duy Đức, Lò Văn Bảo, Phạm Ánh Minh |[:octocat:github](https://github.com/baovan22/TTDN-15-01-N9)|
-    | Quản lý văn bản| Nguyễn Tuấn Hưng, Trần Văn Quang, Đoàn Duy Nhật Anh|[:octocat:github](https://github.com/hungtay/TTDN-15-01-N10)|
-    | Quản lý phòng họp, hội trường| Nguyễn Đức Anh, Vũ Ngọc Tuấn, Hoàng Văn Lâm|[:octocat:github](https://github.com/hoanglam19/TTDN)|
-    | Quản lý khách hàng| Phạm Quang Hiếu, Hà Tiến Trường, Trương Việt Hưng|[:octocat:github](https://github.com/truonghungg/TTDN-15-01-N12)|
-    | Quản lý nhân sự| Lê Danh Mạnh, Nguyễn Văn Mạnh |[:octocat:github](https://github.com/LeDanhManh24092002/TTDN)|
-- #### CNTT 15-02
+    | NHẬN DIỆN BIỂU CẢM KHUÔN MẶT| Vũ Đức Anh, Nguyễn Quang Hiệp, Lê Đức Mạnh, Nguyễn Xuân Thuận  |[:octocat:github](https://github.com/BearBear204/Nhan-dien-bieu-cam-khuon-mat-va-phat-thong-bao-truc-quan.git)|
+    | NHẬN DIỆN KHUÔN MẶT VÀ HÀNH VI CHỐNG ĐẨY ỨNG DỤNG TRONG CHẤM THI THỂ CHẤt| Nguyễn Thanh Bình, Ngô Thành Đạt, Phạm Đình Nghĩa, Dương Xuân Thành| [:octocat:github](https://github.com/dinhnghia204/BTL_AI-IoT-Nhom8)|
+    | HỆ THỐNG ĐẾM SÓ LƯỢNG NGƯỜI TRONG LỚP HỌC BẰNG CAMERA| Đỗ Trường Anh, Nguyễn Trung Hiếu, Phạm Trọng Toàn, Lâm Ngọc Tú |[:octocat:github](https://github.com/lamngoctuu18/He-thong-dem-so-luong-nguoi-trong-lop-hoc-bang-camera	)|
+    | ỨNg DỤNG XÁC THỰC KHUÔN MẶT VÀ LSTM TRONG NHẬN DIỆN & ĐẾM ĐỘNG TÁC GẬP BỤNG TRONG THỜI GIAN THỰC| Đặng Lê Hoàng Anh, Nguyễn Hữu Huy, Nguyễn Văn Nguyên, |[:octocat:github](https://github.com/huuhuy2910/SitUpFaceLogin	)|
+    | NHẬN DIỆN HÀNH ĐỘNG CỦA NGƯỜI SỬ DỤNG CẢM BIẾN GIA TỐC| Nguyễn Thị Lan Anh, Trịnh Hoàng Hà, Mai Đức Hoà, Trịnh Thị Yến Mai |[:octocat:github](https://github.com/Trinhmai26/AI-IOT-ACTIVITY-PREDICTOR	)|
+
+
+- #### CNTT 16-02
     | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
     | ---------------------- | --------------------| --------------- | ----------- |
-    | Quản lý công việc | Hoàng Trung Hiếu, Cao Thị Phương, Nguyễn Thành Đức| [:octocat:github](https://github.com/HieuK1502/TTDN-15-02-N1)|
-    | Quản lý điều hành phương tiện giao thông| Nguyễn Mạnh Nguyên, Trần Khánh Long, Lê Mạnh Đạt| [:octocat:github](https://github.com/Tranlong291003/TTDN-15-02-N6)|*|
-    | Quản lý tài sản | Nguyễn Trọng Thắng, Hoàng Thị Hòa, Ngô Trung Đức| [:octocat:github](https://github.com/thang0305/TTDN-15-02-N3)|
-    | Quản lý phòng họp, hội trường | Trần Duy Phúc, Nguyễn Tuấn Anh, Vũ Xuân Sơn| [:octocat:github](https://github.com/duyphucceem/TTDN-15-02-N7)|
-    | Quản lý văn bản | Trần Quý Nhất, Nguyễn Quốc Việt, Nguyễn Đắc Lâm| [:octocat:github](https://github.com/TranQuyNhat/TTDN-15-02-N2)|
-    | Quản lý nhân sự | Nguyễn Văn Sinh, Trịnh Đức Doanh, Vũ Minh Đức| [:octocat:github](https://github.com/minhducvu0/TTDN-15-02-N4)|
+    | PHÁT HIỆN CỬ CHỈ ĐỘNG BẰNG CAMERA ĐỂ ĐIỀU KHIỂN THIẾT BỊ THÔNG MINH | Phạm Đăng Khương, Bùi Tuấn Kiệt, Nguyễn Đức Mạnh, Đoàn Minh Châu | [:octocat:github](https://github.com/Teikirene/AIOT)|*|
+    | PHÂN LOẠI HOA QUẢ THÔNG QUA CAMERA VÀ BĂNG CHUYỀN| Phạm Đức Long, Trần Lê Bảo Long, Bùi Duy Anh, Vũ Tài Sang | [:octocat:github](https://github.com/sangzudepchaiuwu/Phan-Loai-Trai-Cay)|*|
+    | NHÀ THÔNG MINH | Trần Thị Thu Lan, Vũ Văn Hiệp, Xa Đức Đồng, Trần Hồng Quân| [:octocat:github](https://github.com/HiepV7413/Nha_thong_minh-Nhom_3-CNTT16-02.git)|
+    | VƯỜN THÔNG MINH | Vũ Triệu Phú, Ngô Hữu Hoàng, Nguyễn Quốc Hưng, Đỗ Quốc Việt | [:octocat:github](https://github.com/Long9ngon-pixel/Smart-Garden-.git)|
+    | NHÀ THÔNG MINH | Nguyễn Đức Đại, Nguyễn Đình Khánh, Nguyễn Ngọc Bảo Long, Vũ Đức Minh | [:octocat:github](https://github.com/NhongPlus/SuperHome.git)|
+    | NHẬN DIỆN HÀNH ĐỘNG CỬ CHỈ CÁNH TAY BẰNG CẢM BIẾN GIA TỐC | Phan Đình Quang Vinh, Nguyễn Viết Trọng, Bạch Công Quân, Nguyễn Thị Linh Chi| [:octocat:github](https://github.com/trongnv24/Arm_Recognition_Using_An_Accelerometer_Sensor_Group_6_CNTT-1602)|
     | Quản lý nhân sự | Phạm Lê Tú, Nguyễn Văn Hùng, Nông thế Vương| [:octocat:github](https://github.com/NongTheVuong/TTDN-15-02-N8)|
     | Quản lý tài sản | Nguyễn Trung Hiếu, Nguyễn Ngọc Hải| [:octocat:github](https://github.com/NgocHai77/TTDN-15-02-N10)|
     | Quản lý dự án | Lê Thị Minh, Phạm Văn Quyền, Lê Quốc Trung| [:octocat:github](https://github.com/vanquyen1/TTDN-15-02-N5)|
