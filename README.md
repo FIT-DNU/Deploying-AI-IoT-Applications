@@ -95,7 +95,7 @@
     | ---------------------- | --------------------| --------------- | ----------- |
     | NHẬN DIỆN HOA QUẢ TƯƠI/HỎNG | Đỗ Hải Anh, Bùi Hải Phong, Nguyễn Thu Huyền, Nguyễn Thị Phương Thảo| [:octocat:github](https://github.com/dnzx150/Nghien_cuu_phan_loai_HQ?tab=readme-ov-file)|*|
     | HỆ THỐNG PHÁT HIỆN HÀNH VI SINH VIÊN TRONG LỚP HỌC BẰNG THUẬT TOÁN YOLOv12| Nguyễn Trung Thành, Hà Tuấn Anh, Vương Quốc Khánh, Minh Phụng| [:octocat:github]()|*|
-    | | Vũ Minh Quốc, Lê Văn Yên, Nguyễn Văn Nghĩa, Nguyễn Trung Kiên| [:octocat:github](https://github.com/MinhQuoc04/AIot)|
+    | GIÁO DỤC THỂ CHẤT THÔNG MINH: HỆ THỐNG NHẬN DẠNG KHUÔN MẶT ĐỂ THEO DÕI HỌC SINH VÀ TÍNH ĐIỂM THEO THỜI GIAN THỰC CHO CÁC HOẠT ĐIỀN KINH| Vũ Minh Quốc, Lê Văn Yên, Nguyễn Văn Nghĩa, Nguyễn Trung Kiên| [:octocat:github](https://github.com/MinhQuoc04/AIot)|
     | NHẬN DẠNG HÀNH ĐỘNG CON NGƯỜI BẰNG CẢM BIẾN MPU6050 | Đỗ Bảo Long, Nguyễn Tuấn Anh, Tạ Hồng Lịch, Phùng Nguyễn Trung Đức | [:octocat:github](https://github.com/rynxu2/Human-Activity-Recognition-Detection)|
     | NEW AGE HOUSE | Bùi Thị Ngọc Xương, Phạm Văn Đạt, Triệu Vũ Hà My, Nguyễn Thành Phong| [:octocat:github](https://github.com/xuong254/New-Age-House)|
     | NHẬN DIỆN KHUÔN MẶT | Nguyễn Thị Ngọc Ánh, Nguyễn Hoài Trang, Nguyễn Đình Tráng, Nguyễn Mạnh Đức  | [:octocat:github](https://github.com/NguyenDinhTrang04/face_recognition)|
