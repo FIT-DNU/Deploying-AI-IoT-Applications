@@ -85,13 +85,21 @@
     | HỆ THỐNG CẢNH BÁO SỚM TAI NẠN GIAO THÔNG DỰA TRÊN PHÂN TÍCH HÀNH VI NGUY HIỂM CỦA TÀI XẾ| Trịnh Văn Hào, Phan Xuân Khải, Nguyễn Phương Nam, Nguyễn Thành Trung| [:octocat:github](https://github.com/phankhai04112004/YOLO-Based-Drowsiness-Detection-System-for-Road-Safety-main)|*|
     | NHẬN DẠNG GIỌNG NÓI | Phạm Ngọc Chiến, Nguyễn Đình Đức Chính, Nguyễn Thị Viết Lợi, Nguyễn Hoàng Việt | [:octocat:github](https://github.com/phamchien071004/nhan_dang_giong_noi)|
     | CẢNH BÁO CẢM BIẾN NHỊP TIM | Nguyễn Thị Thùy Linh, Nguyễn Lan Phượng, Đặng Đình Quân, Nguyễn Anh Tuấn | [:octocat:github](https://github.com/thuylinh2004/canh_bao_nhip_tim.git)|
-    | SMART HOME | Nguyễn Phạm Nguyên Giáp, Đỗ Duy Long, Đào Hải Phong, Nguyễn Đức Thanh| [:octocat:github](https://github.com/namdz16/Canhbaodotnhap..git)|
-    | CẢNH BÁO ĐỘT NHẬP BẰNG NHẬN DIỆN KHUÔN MẶT | Phạm Ngọc Minh, Nguyễn Văn Nam, Hoàng Hải Quân, Phạm Quyết Thắng | [:octocat:github](https://github.com/tranthily15/TTDN-15-05-N6.git)|
-    | Quản lý dự án | Đỗ Trọng Linh, Nguyễn Quyết Thắng, Nguyễn Văn Thuận| [:octocat:github](https://github.com/DoLinh2308/TTDN-1505-N7)|
-    | Quản lý phòng họp, hội trường | Hoàng Trung Đoàn, Đỗ Đăng Linh, Nguyễn Minh Hiếu| [:octocat:github](https://github.com/linhdang2k03/TTDN-15-05-N8)|*|
-    | Quản lý công việc | Nguyễn Thế Đức, Đặng Ninh Giang, Vũ Huy Hoàng| [:octocat:github](https://github.com/ambumin-c12/TTDN-15-05-N9)|
-    | Chấm công | Hoàng Công Minh, Lê Đức Mạnh, Phạm Văn Nam| [:octocat:github](https://github.com/ManhLe18/TTDN-15-05-N10/tree/master)|
-    | Quản lý văn bản | Đỗ Đức Công, Trần Văn Tâm, Vũ Hoàng Phong| [:octocat:github](https://github.com/Tamhss/TTDN-15-05-N11.git)|
-    | Quản lý điều hành phương tiện giao thông | Lưu Quyết Thắng, Nguyễn Trọng Đức, Lê Tuấn Anh| [:octocat:github](https://github.com/luuquyetthang/TTDN-15-05-N12)|
-
+    | SMART HOME | Nguyễn Phạm Nguyên Giáp, Đỗ Duy Long, Đào Hải Phong, Nguyễn Đức Thanh| [:octocat:github](https://github.com/nguyenducthanh04/Thiet-Ke-Nha-Thong-Minh)|
+    | CẢNH BÁO ĐỘT NHẬP BẰNG NHẬN DIỆN KHUÔN MẶT | Phạm Ngọc Minh, Nguyễn Văn Nam, Hoàng Hải Quân,  | [:octocat:github](https://github.com/namdz16/Canhbaodotnhap..git)|
+    | ỨNG DỤNG CÔNG NGHỆ NHẬN DẠNG KHUÔN MẶT TRONG HỆ THỐNG ĐIỂM DANH SINH VIÊN TỰ ĐỘNG | Nguyễn Thị Mai Hương, Chu Văn Huy, Nguyễn Đức Kiên, Hồ Đức Mạnh | [:octocat:github](https://github.com/DuccHuyyy/Diem_Danh_Sinh_Vien_Bang_Guong_Mat_FaceNet)|
+    | NHẬN DẠNG HÀNH ĐỘNG CON NGƯỜI QUA CAMERA | Hoàng Trung Đoàn, Đỗ Đăng Linh, Nguyễn Minh Hiếu| [:octocat:github](https://github.com/dungtuan2001/nhan-dang-hanh-vi-con-nguoi-qua-cammera.git)|*|
+    | PHÁT HIỆN HÀNH VI GIAN LẬN TRONG THI CỬ | Nguyễn Thế Đức, Đặng Ninh Giang, Vũ Huy Hoàng| [:octocat:github](https://github.com/ambumin-c12/TTDN-15-05-N9)|
+- #### CNTT 16-06
+    | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
+    | ---------------------- | --------------------| --------------- | ----------- |
+    | NHẬN DIỆN HOA QUẢ TƯƠI/HỎNG | Đỗ Hải Anh, Bùi Hải Phong, Nguyễn Thu Huyền, Nguyễn Thị Phương Thảo| [:octocat:github](https://github.com/dnzx150/Nghien_cuu_phan_loai_HQ?tab=readme-ov-file)|*|
+    | HỆ THỐNG PHÁT HIỆN HÀNH VI SINH VIÊN TRONG LỚP HỌC BẰNG THUẬT TOÁN YOLOv12| Nguyễn Trung Thành, Hà Tuấn Anh, Vương Quốc Khánh, Minh Phụng| [:octocat:github]()|*|
+    | NHẬN DẠNG GIỌNG NÓI | Phạm Ngọc Chiến, Nguyễn Đình Đức Chính, Nguyễn Thị Viết Lợi, Nguyễn Hoàng Việt | [:octocat:github](https://github.com/phamchien071004/nhan_dang_giong_noi)|
+    | CẢNH BÁO CẢM BIẾN NHỊP TIM | Nguyễn Thị Thùy Linh, Nguyễn Lan Phượng, Đặng Đình Quân, Nguyễn Anh Tuấn | [:octocat:github](https://github.com/thuylinh2004/canh_bao_nhip_tim.git)|
+    | SMART HOME | Nguyễn Phạm Nguyên Giáp, Đỗ Duy Long, Đào Hải Phong, Nguyễn Đức Thanh| [:octocat:github](https://github.com/nguyenducthanh04/Thiet-Ke-Nha-Thong-Minh)|
+    | CẢNH BÁO ĐỘT NHẬP BẰNG NHẬN DIỆN KHUÔN MẶT | Phạm Ngọc Minh, Nguyễn Văn Nam, Hoàng Hải Quân,  | [:octocat:github](https://github.com/namdz16/Canhbaodotnhap..git)|
+    | ỨNG DỤNG CÔNG NGHỆ NHẬN DẠNG KHUÔN MẶT TRONG HỆ THỐNG ĐIỂM DANH SINH VIÊN TỰ ĐỘNG | Nguyễn Thị Mai Hương, Chu Văn Huy, Nguyễn Đức Kiên, Hồ Đức Mạnh | [:octocat:github](https://github.com/DuccHuyyy/Diem_Danh_Sinh_Vien_Bang_Guong_Mat_FaceNet)|
+    | NHẬN DẠNG HÀNH ĐỘNG CON NGƯỜI QUA CAMERA | Hoàng Trung Đoàn, Đỗ Đăng Linh, Nguyễn Minh Hiếu| [:octocat:github](https://github.com/dungtuan2001/nhan-dang-hanh-vi-con-nguoi-qua-cammera.git)|*|
+    | PHÁT HIỆN HÀNH VI GIAN LẬN TRONG THI CỬ | Nguyễn Thế Đức, Đặng Ninh Giang, Vũ Huy Hoàng| [:octocat:github](https://github.com/ambumin-c12/TTDN-15-05-N9)|
      
