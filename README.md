@@ -66,18 +66,18 @@
     |VƯỜN THÔNG MINH |Nguyễn Chí Nhật, Bùi Văn Trường, Đỗ Ngọc Nghĩa, Nguyễn Thành Hưng | [:octocat:github](https://github.com/truong2004/VuoThongMinh.git)|
     | CHUYỂN ĐỔI GIỌNG NÓI THÀNH VĂN BẢN | Nguyễn Công Uẩn, Đỗ Huy Dũng, Bùi Anh Tuấn, Lê Xuân Dương| [:octocat:github](https://github.com/CongUan04/Nhan_Dien_Giong_Noi)|
     | NHẬN DẠNG HÀNH VI CỦA SINH VIÊN TRONG LỚP HỌC | Nguyễn Danh Phóng, Nguyễn Đức Tâm, Bùi Văn Tiến, Đặng Bùi Thanh Tùng| [:octocat:github](https://github.com/NguyenDanhPhong270604/Nhan_dang_sinhvien)|
-- #### CNTT 15-04
+- #### CNTT 16-04
     | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
     | ---------------------- | --------------------| --------------- | ----------- |
-    | Quản lý dự án | Nguyễn Thanh Tùng, Phạm Văn Phúc, Nguyễn Vũ Phúc| [:octocat:github](https://github.com/tungthanh1928/TTDN-15-04-N1)|
-    | Quản lý văn bản| Nguyễn Ngọc Anh, Phạm Duy Anh, Đinh Thế Bảo| [:octocat:github](https://github.com/ngocanhit201/TTDN-15-04-N2)|*|
-    | Quản lý phòng họp, hội trường | Nguyễn Việt Anh, Nguyễn Việt Hoàng, Nguyễn Xuân Thể| [:octocat:github](https://github.com/hoangtit123/TTDN-15-04-N3)|
-    | Quản lý chấm công | Nguyễn Mậu Lân Triệu Trí Trung Lê Đăng Duy| [:octocat:github](https://github.com/maulan1208/TTDN-15-04-N4)|
-    | Quản lý dự án | Trần Minh Quý, Nguyễn Văn Dũng, Trần Phúc Thuần| [:octocat:github](https://github.com/phucthuan12/TTDN-15-04-N5)|
-    | Quản lý tài sản | Nguyễn Ngọc Đan Trường, Dương Văn Tuân, Nguyễn Đức Hiệp| [:octocat:github](https://github.com/nguyenngocdantruong/TTDN-15-04-N6)|*|
-    | Quản lý điều hành phương tiện giao thông | Phạm Quốc Tuấn, Lưu Anh Tú, Ngô Đức Hải| [:octocat:github](https://github.com/twotee2207/TTDN-15-04-N7)|
-    | Quản lý khách hàng | Nguyễn Vũ Minh, Vũ Thành Lộc, Chu Hoàng Sơn| [:octocat:github](https://github.com/Drabula/TTDN-15-04-N8)|
-    | Quản lý nhân sự | Nguyễn Quốc Huy, Phùng Đăng Hậu, Nông Lương Hoàng| [:octocat:github](https://github.com/PhungDangHau/TTDN-CNTT15-04-N9)|
+    | HỆ THỐNG KIỂM SOÁT VÀ QUẢN LÝ NGƯỜI RA VÀO PHÒNG | Nguyễn Đức Anh, Nguyễn Thúy Hằng, Lê Bá Hoan| [:octocat:github](https://github.com/nguyenducanh1152004/Quan_ly_nguoi_ra_vao_phongg.git)|
+    |NHẬN DIỆN BUỒN NGỦ KHÍ LÁI XE| Nguyễn Văn Bắc, Lê Hải Đăng, Trịnh Việt Hưng, Hoàng Anh Tú | [:octocat:github](https://github.com/tu-debug-ancut/nhan_dien_buon_ngu)|*|
+    | XÂY DỰNG HỆ THỐNG GIÁM SÁT VÀ PHÂN TÍCH HÀNH ĐỘNG TÉ NGÃ| Nguyễn Đào Nguyên Giáp, Phạm Thị Hồng Ngọc, Nguyễn Hải Phong, Nguyễn Đức Thường| [:octocat:github](https://github.com/giap09/PHAT-HIEN-TE-NGA_1.git)|
+    | ỨNG DỤNG AI VÀ IOT TRONG NHÀ THÔNG MINH| Nguyễn Thu Hồng, Đào Duy Mạnh, Vũ Đình Quân | [:octocat:github](https://github.com/nguyenhonh2004/smart-home.git)|
+    | HỆ THỐNG ĐIỀU KHIỂN XE MÔ HÌNH BẰNG CỬ CHỈ TAY| Nguyễn Tiến Đạt, Trịnh Hữu Hiệu, Phạm Thành Hưng, Nguyễn Thế Vinh | [:octocat:github](https://github.com/wayzedgolden1/Sensor_controlled_car.git)|
+    | NHẬN DIỆN PHƯƠNG TIỆN VI PHẠM GIAO THÔNG GHI LẠI BIỂN SỐ XE | Nguyễn Văn Giang, Nguyễn Bá Chí Khiêm, Nguyễn Hoài Nam, Nguyễn Việt Ninh | [:octocat:github](https://github.com/nguyenbachikhiem2004/nhan_dien_bien_so_xe.git)||
+    | HỆ THỐNG NHẬN DẠNG KHUÔN MẶT VÀ TÍNH TOÁN THỜI GIAN DI CHUYỂN TRONG MÔN HỌC THỂ CHẤT | Lương Quốc Diệu, Nguyễn Hải Đăng, Đào Gia Hưng, Vũ Duy Thái | [:octocat:github](https://github.com/luongdieu2624/he-thong-nhan-dang-khuan-mat-va-tinh-toan-thoi-gian-di-chuyen-trong-mon-the-chat.git)|
+    | PHÁT HIỆN VÀ CẢNH BÁO HÀNH VI BẠO LỰC THÔNG QUA CAMER | Đỗ Tuấn Anh, Nguyễn Trọng Đàn, Khổng Minh Hoài, Lã Việt Hoàng | [:octocat:github](https://github.com/Drabula/TTDN-15-04-N8)|
+
 - #### CNTT 15-05
     | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
     | ---------------------- | --------------------| --------------- | ----------- |
