@@ -52,20 +52,20 @@
     |NHẬN DIÊN VÀ CẢNH BÁO HÀNH VI BẠO LỰC TRONG ĐÁM ĐÔNG | Vũ Khánh Hoàn, Nguyễn Ánh Cương, Nông Trung Hiếu| [:octocat:github](https://github.com/vuhoan1312312343/Violence_Detection)|
     | PHÁT HIỆN MỆT MỎI CỦA TÀI XẾ DỰA TRÊN CAMERA | Nguyễn Thị Thủy, Trần Minh Hiếu| [:octocat:github](https://github.com/hieutran-12/baitaploniot_phathienmetmoicuataixe)||
     | HỆ THỐNG TƯƠNG TÁC NHÀ THÔNG MINH DỰA TRÊN NHẬN DIỆN CẢM XÚC | Lê Văn Việt| [:octocat:github](https://github.com/VietHann/He-Thong-Tuong-Tac-Thong-Minh-Dua-Tren-Nhan-Dien-Cam-Xuc)|*|
-- #### CNTT 15-03
+- #### CNTT 16-03
     | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
     | ---------------------- | --------------------| --------------- | ----------- |
-    | Chấm công | Vũ Mạnh Quân, Nguyễn Xuân Quỳnh, Lê Xuân Đạt| [:octocat:github](https://github.com/Veirea/TTDN-15-03-N1.git)|
-    | Quản lý tài sản| Phạm Minh Tâm, Nguyễn Thanh Hải, Bùi Khánh Hòa| [:octocat:github](https://github.com/MinhTam2804/TTDN-15-03-N2)|
-    | Quản lý nhân sự | Nguyễn Hoài Nam, Giáp Thiên Thanh, Hoàng Anh Tú| [:octocat:github](https://github.com/nam0942901062/TTDN-15-03-N3)|
-    | Quản lý phòng họp, hội trường | Lê Minh Đức, Ngô Xuân Thảo, Phan Văn Sơn| [:octocat:github](https://github.com/MinDuc2003/TTDN-15-03-N4)|
-    | Quản lý khách hàng | Đào Ngọc Bình Thiên, Nguyễn Trần Tiến Dũng, Nguyễn Tiến Đạt| [:octocat:github](https://github.com/ThinDao/TTDN-15-03-N5)|*|
-    | Quản lý công việc | Hoàng Văn Đạt, Nguyễn Đức Bình, Nguyễn Hữu Thịnh| [:octocat:github](https://github.com/HDatz/TTDN-15-03-N6)|*|
-    | Quản lý dự án | Lê Khắc Hoàn, Dương Văn Môn, Khuất Quang Thái, Vũ Hoàng Chương| [:octocat:github](https://github.com/lehoan2608/TTDN-15-03-N7)|*|
-    | Quản lý văn bản | Đào Hồng Sơn Hoàng Quốc Hạnh Nguyễn Minh Đức| [:octocat:github](https://github.com/anhken123/TTDN-1503-N9)|
-    | Quản lý phòng họp, hội trường | Lê Ngọc Tú, Thiều Khánh Phú| [:octocat:github](https://github.com/PHUPHU2310/TTDN-15-03-N10)|
-    | Quản lý khách hàng | Nguyễn Duy Quang, Tráng A Hiếu, Trần Quốc Hưng| [:octocat:github](https://github.com/tranghieu/TTDN-15-03-N11)|
-    | Quản lý dự án | Trần Trường Phước, Dương Thị Hương Lan, Hoàng Văn Hiệp| [:octocat:github](https://github.com/Tran-Truong-Phuoc/TTDN-15-03-N12)|
+    | ĐIỂM DANH SINH VIÊN BẰNG MÃ QR | Hoàng Mạnh Linh, Nguyễn Nam Hưng, Đào Đức Mạnh, Cao Văn Huy| [:octocat:github](https://github.com/manhlinh3011/Diem-danh-bang-ma-QRCode)|*|
+    | NHẬN DIỆN CỬ CHỈ TAY TRONG THỜI GIAN THỰC VỚI CẢM BIẾN GIA TỐC| Vũ Giang Nam, Phạm Thanh Phương, Mẫn Bá Sâm. Nguyễn Quang Tiến| [:octocat:github](https://github.com/RobiRobin555/gesture_recognition_in_real_time)|*|
+    | THEO DÕI MẬT ĐỘ XE TRONG KHU VỰC ĐỂ THAY ĐỔI THỜI GIAN TÍNH HIỆU ĐÈN GIAO THÔNG | Lê Thanh Long, Nguyễn Duy Đạt, Nguyễn Thị Lan Anh, Đậu Cao Minh Nhật| [:octocat:github](https://github.com/lanh240224/Nhom3_AIOT_CNTT1603)|
+    | NHẬN DIỆN CỬ CHỈ TAY CỦA NGƯỜI KHUYẾT TẬT | Đỗ Trọng Minh Tiến, Nguyễn Đức Ngọc, Nguyễn Ngọc Khánh, Bùi Tuấn Dương| [:octocat:github](https://github.com/nguyenducngoc2004/Nhan-dien-cu-chi-tay-cua-nguoi-khuyet-tat/tree/main)|
+    | NHẬN DIỆN CỬ CHỈ TAY TRONG THỜI GIAN THỰC VỚI CẢM BIẾN HÌNH ẢNH | Trịnh Minh Thành, Hoàng Công Sơn, Nguyễn Thị Kiều Hoa, Hoàng Thế Khải| [:octocat:github](https://github.com/Suna0011/nhan-dien-cu-chi-tay)|*|
+    | NHẬN DẠNG BIỂN SỐ XE KHI VƯỢT ĐÈN ĐỎ | Đặng Văn Khánh, Nguyễn Trường Nam, Trần Trí Duy, Lê Đức Khánh Long | [:octocat:github](https://github.com/ntnguyen03/traffic_red_light_violation_detection.git)|*|
+    | ĐẾM SỐ SINH VIÊN TRONG LỚP HỌC BẰNG CAMERA | Trần Hiếu Nghĩa, Nguyễn Hoàng Liêm, Nguyễn Minh Hiếu, Phạm Văn Duy| [:octocat:github](https://github.com/nghia5s/nhandiensinhvientronglop)||
+    | NHÀ THÔNG MINH | Nguyễn Cao Tùng, Ngô Ngọc Phú, Trần Đình Hiệp, Lò Đức Mạnh| [:octocat:github](https://github.com/Nekoh1me/iot)|
+    |VƯỜN THÔNG MINH |Nguyễn Chí Nhật, Bùi Văn Trường, Đỗ Ngọc Nghĩa, Nguyễn Thành Hưng | [:octocat:github](https://github.com/truong2004/VuoThongMinh.git)|
+    | CHUYỂN ĐỔI GIỌNG NÓI THÀNH VĂN BẢN | Nguyễn Công Uẩn, Đỗ Huy Dũng, Bùi Anh Tuấn, Lê Xuân Dương| [:octocat:github](https://github.com/CongUan04/Nhan_Dien_Giong_Noi)|
+    | NHẬN DẠNG HÀNH VI CỦA SINH VIÊN TRONG LỚP HỌC | Nguyễn Danh Phóng, Nguyễn Đức Tâm, Bùi Văn Tiến, Đặng Bùi Thanh Tùng| [:octocat:github](https://github.com/NguyenDanhPhong270604/Nhan_dang_sinhvien)|
 - #### CNTT 15-04
     | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
     | ---------------------- | --------------------| --------------- | ----------- |
