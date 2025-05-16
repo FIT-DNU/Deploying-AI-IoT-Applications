@@ -95,11 +95,11 @@
     | ---------------------- | --------------------| --------------- | ----------- |
     | NHẬN DIỆN HOA QUẢ TƯƠI/HỎNG | Đỗ Hải Anh, Bùi Hải Phong, Nguyễn Thu Huyền, Nguyễn Thị Phương Thảo| [:octocat:github](https://github.com/dnzx150/Nghien_cuu_phan_loai_HQ?tab=readme-ov-file)|*|
     | HỆ THỐNG PHÁT HIỆN HÀNH VI SINH VIÊN TRONG LỚP HỌC BẰNG THUẬT TOÁN YOLOv12| Nguyễn Trung Thành, Hà Tuấn Anh, Vương Quốc Khánh, Minh Phụng| [:octocat:github]()|*|
-    | NHẬN DẠNG GIỌNG NÓI | Phạm Ngọc Chiến, Nguyễn Đình Đức Chính, Nguyễn Thị Viết Lợi, Nguyễn Hoàng Việt | [:octocat:github](https://github.com/phamchien071004/nhan_dang_giong_noi)|
-    | CẢNH BÁO CẢM BIẾN NHỊP TIM | Nguyễn Thị Thùy Linh, Nguyễn Lan Phượng, Đặng Đình Quân, Nguyễn Anh Tuấn | [:octocat:github](https://github.com/thuylinh2004/canh_bao_nhip_tim.git)|
-    | SMART HOME | Nguyễn Phạm Nguyên Giáp, Đỗ Duy Long, Đào Hải Phong, Nguyễn Đức Thanh| [:octocat:github](https://github.com/nguyenducthanh04/Thiet-Ke-Nha-Thong-Minh)|
-    | CẢNH BÁO ĐỘT NHẬP BẰNG NHẬN DIỆN KHUÔN MẶT | Phạm Ngọc Minh, Nguyễn Văn Nam, Hoàng Hải Quân,  | [:octocat:github](https://github.com/namdz16/Canhbaodotnhap..git)|
-    | ỨNG DỤNG CÔNG NGHỆ NHẬN DẠNG KHUÔN MẶT TRONG HỆ THỐNG ĐIỂM DANH SINH VIÊN TỰ ĐỘNG | Nguyễn Thị Mai Hương, Chu Văn Huy, Nguyễn Đức Kiên, Hồ Đức Mạnh | [:octocat:github](https://github.com/DuccHuyyy/Diem_Danh_Sinh_Vien_Bang_Guong_Mat_FaceNet)|
-    | NHẬN DẠNG HÀNH ĐỘNG CON NGƯỜI QUA CAMERA | Hoàng Trung Đoàn, Đỗ Đăng Linh, Nguyễn Minh Hiếu| [:octocat:github](https://github.com/dungtuan2001/nhan-dang-hanh-vi-con-nguoi-qua-cammera.git)|*|
-    | PHÁT HIỆN HÀNH VI GIAN LẬN TRONG THI CỬ | Nguyễn Thế Đức, Đặng Ninh Giang, Vũ Huy Hoàng| [:octocat:github](https://github.com/ambumin-c12/TTDN-15-05-N9)|
+    | | Vũ Minh Quốc, Lê Văn Yên, Nguyễn Văn Nghĩa, Nguyễn Trung Kiên| [:octocat:github](https://github.com/MinhQuoc04/AIot)|
+    | NHẬN DẠNG HÀNH ĐỘNG CON NGƯỜI BẰNG CẢM BIẾN MPU6050 | Đỗ Bảo Long, Nguyễn Tuấn Anh, Tạ Hồng Lịch, Phùng Nguyễn Trung Đức | [:octocat:github](https://github.com/rynxu2/Human-Activity-Recognition-Detection)|
+    | NEW AGE HOUSE | Bùi Thị Ngọc Xương, Phạm Văn Đạt, Triệu Vũ Hà My, Nguyễn Thành Phong| [:octocat:github](https://github.com/xuong254/New-Age-House)|
+    | NHẬN DIỆN KHUÔN MẶT | Nguyễn Thị Ngọc Ánh, Nguyễn Hoài Trang, Nguyễn Đình Tráng, Nguyễn Mạnh Đức  | [:octocat:github](https://github.com/NguyenDinhTrang04/face_recognition)|
+    | DỰ ÁN NHẬN DIỆN ĐỒ CHƠI | Nguyễn Hữu Phong, Lê Quang Hiệp, Bùi Duy Khánh, Ngô Tuấn Minh | [:octocat:github](https://github.com/phongnguyen04/Project_Toy_Identification)|
+    | NHẬN DẠNG NGÔN NGỮ KÝ HIỆU | Nguyễn Lê Việt Hoàng, Ngô Minh Quang, Mai Văn Thủy, Đinh Công Vỹ| [:octocat:github](https://github.com/dinhcongvy2408/Nhom8)|*|
+    | ĐIỀU KHIỂN NHÀ THÔNG MINH BẰNG GIỌNG NÓI | Nguyễn Thu Anh, Hà Duy Khương, Nguyễn Thị Khuyên, Đỗ Văn Thuyên | [:octocat:github](https://github.com/ambumin-c12/TTDN-15-05-N9)|
      
