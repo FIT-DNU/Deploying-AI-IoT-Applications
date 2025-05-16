@@ -78,15 +78,15 @@
     | HỆ THỐNG NHẬN DẠNG KHUÔN MẶT VÀ TÍNH TOÁN THỜI GIAN DI CHUYỂN TRONG MÔN HỌC THỂ CHẤT | Lương Quốc Diệu, Nguyễn Hải Đăng, Đào Gia Hưng, Vũ Duy Thái | [:octocat:github](https://github.com/luongdieu2624/he-thong-nhan-dang-khuan-mat-va-tinh-toan-thoi-gian-di-chuyen-trong-mon-the-chat.git)|
     | PHÁT HIỆN VÀ CẢNH BÁO HÀNH VI BẠO LỰC THÔNG QUA CAMER | Đỗ Tuấn Anh, Nguyễn Trọng Đàn, Khổng Minh Hoài, Lã Việt Hoàng | [:octocat:github](https://github.com/Drabula/TTDN-15-04-N8)|
 
-- #### CNTT 15-05
+- #### CNTT 16-05
     | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
     | ---------------------- | --------------------| --------------- | ----------- |
-    | Quản lý tài sản | Nguyễn Thế Huy Hoàng, Trịnh Văn Hiếu| [:octocat:github](https://github.com/HuyHoangFSDev/TTDN-15-05-N1)|*|
-    | Quản lý khách hàng | Nguyễn Việt Hoàng, Nguyễn Thọ Quân, Trần Nguyễn Hải Nam| [:octocat:github](https://github.com/yukiharadev/TTDN-15-05-N2)|*|
-    | Quản lý điều hành phương tiện giao thông | Lưu Trung Nghĩa, Chử Minh Đức| [:octocat:github](https://github.com/chuminhduc5/TTDN-15-05-N3)|
-    | Quản lý tài sản | Nguyễn Hải Đăng, Bùi Thế Hiếu, Nguyễn Đức Mạnh| [:octocat:github](https://github.com/Duongbe/TTDN-15-05-N4)|
-    | Quản lý văn bản | Nguyễn Hải Đăng, Bùi Thế Hiếu, Nguyễn Đức Mạnh| [:octocat:github](https://github.com/Haidang2k/TTDN-15-05-N5)|
-    | Quản lý nhân sự | Nguyễn Thị Kim Hoa, Trần Thị Ly, Đỗ Thanh Thảo| [:octocat:github](https://github.com/tranthily15/TTDN-15-05-N6.git)|
+    | ỨNG DỤNG AIIOT PHÁT HIỆN VÀ CẢNH BÁO TƯ NGỒI | Trần Phương Anh, Chu Bá Khánh, Nguyễn Minh Quân, Trần Chiến Thịnh | [:octocat:github](https://github.com/chubakhanh2k4/Nhan-dang-ngoi-sai-tu-the.git)|*|
+    | HỆ THỐNG CẢNH BÁO SỚM TAI NẠN GIAO THÔNG DỰA TRÊN PHÂN TÍCH HÀNH VI NGUY HIỂM CỦA TÀI XẾ| Trịnh Văn Hào, Phan Xuân Khải, Nguyễn Phương Nam, Nguyễn Thành Trung| [:octocat:github](https://github.com/phankhai04112004/YOLO-Based-Drowsiness-Detection-System-for-Road-Safety-main)|*|
+    | NHẬN DẠNG GIỌNG NÓI | Phạm Ngọc Chiến, Nguyễn Đình Đức Chính, Nguyễn Thị Viết Lợi, Nguyễn Hoàng Việt | [:octocat:github](https://github.com/phamchien071004/nhan_dang_giong_noi)|
+    | CẢNH BÁO CẢM BIẾN NHỊP TIM | Nguyễn Thị Thùy Linh, Nguyễn Lan Phượng, Đặng Đình Quân, Nguyễn Anh Tuấn | [:octocat:github](https://github.com/thuylinh2004/canh_bao_nhip_tim.git)|
+    | SMART HOME | Nguyễn Phạm Nguyên Giáp, Đỗ Duy Long, Đào Hải Phong, Nguyễn Đức Thanh| [:octocat:github](https://github.com/namdz16/Canhbaodotnhap..git)|
+    | CẢNH BÁO ĐỘT NHẬP BẰNG NHẬN DIỆN KHUÔN MẶT | Phạm Ngọc Minh, Nguyễn Văn Nam, Hoàng Hải Quân, Phạm Quyết Thắng | [:octocat:github](https://github.com/tranthily15/TTDN-15-05-N6.git)|
     | Quản lý dự án | Đỗ Trọng Linh, Nguyễn Quyết Thắng, Nguyễn Văn Thuận| [:octocat:github](https://github.com/DoLinh2308/TTDN-1505-N7)|
     | Quản lý phòng họp, hội trường | Hoàng Trung Đoàn, Đỗ Đăng Linh, Nguyễn Minh Hiếu| [:octocat:github](https://github.com/linhdang2k03/TTDN-15-05-N8)|*|
     | Quản lý công việc | Nguyễn Thế Đức, Đặng Ninh Giang, Vũ Huy Hoàng| [:octocat:github](https://github.com/ambumin-c12/TTDN-15-05-N9)|
