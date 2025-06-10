@@ -46,7 +46,7 @@
     | NHÀ THÔNG MINH | Trần Thị Thu Lan, Vũ Văn Hiệp, Xa Đức Đồng, Trần Hồng Quân| [:octocat:github](https://github.com/HiepV7413/Nha_thong_minh-Nhom_3-CNTT16-02.git)|
     | VƯỜN THÔNG MINH | Vũ Triệu Phú, Ngô Hữu Hoàng, Nguyễn Quốc Hưng, Đỗ Quốc Việt | [:octocat:github](https://github.com/Long9ngon-pixel/Smart-Garden-.git)|
     | NHÀ THÔNG MINH | Nguyễn Đức Đại, Nguyễn Đình Khánh, Nguyễn Ngọc Bảo Long, Vũ Đức Minh | [:octocat:github](https://github.com/NhongPlus/SuperHome.git)|
-    | NHẬN DIỆN HÀNH ĐỘNG CỬ CHỈ CÁNH TAY BẰNG CẢM BIẾN GIA TỐC | Phan Đình Quang Vinh, Nguyễn Viết Trọng, Bạch Công Quân, Nguyễn Thị Linh Chi| [:octocat:github](https://github.com/trongnv24/Arm_Recognition_Using_An_Accelerometer_Sensor_Group_6_CNTT-1602)|
+    | NHẬN DIỆN HÀNH ĐỘNG CỬ CHỈ CÁNH TAY BẰNG CẢM BIẾN GIA TỐC | Phan Đình Quang Vinh, Nguyễn Viết Trọng, Bạch Công Quân, Nguyễn Thị Linh Chi| [:octocat:github](https://github.com/Anhquan04/Phat-hien-cu-chi-hanh-dong-canh-tay-bang-cam-bien-gia-toc)|
     | NHẬN DIỆN BIỂN SỐ XE VÀ PHÁT HIỆN SAI PHẠM VƯỢT ĐÈN ĐỎ | Nguyễn Tất Thắng, Phùng Xuân Đức, Phạm Thị Huyền Trang, Hà Minh Chiến | [:octocat:github](https://github.com/vanhdep/smart-farm.git)|
     | TRANG TRẠI THÔNG MINH | Nguyễn Văn Tân, Nguyễn Văn Long, Ngô Thị Mừng, Đào Trần Lê Việt Anh | [:octocat:github](https://github.com/NgocHai77/TTDN-15-02-N10)|
     |NHẬN DIÊN VÀ CẢNH BÁO HÀNH VI BẠO LỰC TRONG ĐÁM ĐÔNG | Vũ Khánh Hoàn, Nguyễn Ánh Cương, Nông Trung Hiếu| [:octocat:github](https://github.com/vuhoan1312312343/Violence_Detection)|
