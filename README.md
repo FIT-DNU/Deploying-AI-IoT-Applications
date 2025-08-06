@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-    IT INTERNSHIP 5 DEPLOYING AI IOT APPLICATION
+    Triển khai ứng dụng AI, IoT
 </h2>
 <div align="center">
     <p align="center">
